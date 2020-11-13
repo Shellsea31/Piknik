@@ -1,10 +1,35 @@
+body { 
+    margin:0; 
+    padding:0; 
+    background-size: cover;
+}
+
 /* Lara */
+#button-container {
+    text-align: center;
+    padding: 50px;
+   
+} 
 
+#start-piknik {
+    background-color: rgba(8, 36, 2, 0.966);
+    display: inline-block;
+    width: 25%;
+    font-size: 30px;
+    font-family: serif;
+}
 
+button.button {
+    background-color: rgba(8, 36, 2, 0.966);
+    display: inline-block;
+    font-family: serif;
+    font-size: 19px;
+    padding: 20px;
+}
 
-
-
-
+h3 {
+    font-family: serif;
+}
 
 
 
@@ -35,8 +60,11 @@
 body { 
     margin:0; 
     padding:0; 
-    background-image: url("./images/Piknik_Background.png");
-    background-size: cover;
+}
+
+.background {
+    max-height:100%;
+    max-width:100%;
 }
 
 #map { 
@@ -44,4 +72,13 @@ body {
     top:0; 
     bottom:0; 
     width:100%; 
+}
+
+/* Sticky Footer styling */
+.sticky {
+    background-color: rgba(255, 255, 255, .5);
+    width: 100%;
+    color: gray;
+    text-align: center;
+    padding-top: 10px;
 }
