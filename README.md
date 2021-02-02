@@ -42,23 +42,14 @@ https://shellsea31.github.io/Piknik/
 #### Contributors
 
   **Lara Zegart**
- * Github: 
- * Gitlab:
- * LinkedIn:
- * Email:
+ * [Github](https://github.com/lzegart)
 
   **Alfredo Bracamontes-Ochoa**
- * Github:
- * Gitlab: 
- * LinkedIn:
- * Email:
+ * [Github](https://github.com/bracamon)
 
   **John Delizp**
- * Github:
- * Gitlab: 
- * LinkedIn: 
- * Email: 
-
+ * [Github]()
+ 
  **Shelsy Barrera**
  * Github: Shellsea31
  * Gitlab: @Shellsea
