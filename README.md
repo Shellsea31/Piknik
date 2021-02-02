@@ -48,7 +48,7 @@ https://shellsea31.github.io/Piknik/
  * [Github](https://github.com/bracamon)
 
   **John Delizp**
- * [Github]()
+ * [Github](https://github.com/johnmoolah)
  
  **Shelsy Barrera**
  * Github: Shellsea31
